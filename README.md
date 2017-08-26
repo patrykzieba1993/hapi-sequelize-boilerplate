@@ -1,0 +1,1 @@
+Hapi + sequelize technology stack boilerplate.
